@@ -1,0 +1,158 @@
+[
+  {
+    "id": "623e154588d12af29d077863",
+    "index": 0,
+    "img": "./assets/banana.jpg",
+    "productName": "Banana",
+    "price": "20.00",
+    "details": "Eu cillum labore aliqua eu pariatur voluptate sunt ullamco consequat dolore consequat consequat anim. Consequat est ipsum duis mollit cillum elit ullamco anim ipsum veniam minim deserunt occaecat. Velit adipisicing ex et commodo. Officia Lorem ipsum laboris labore anim deserunt. Voluptate cupidatat dolore magna do ipsum mollit et esse in pariatur.",
+    "tags": [
+      "laborum",
+      "in",
+      "amet"
+    ]
+  },
+  {
+    "id": "623e15450d1ccfd00dc65e31",
+    "index": 1,
+    "img": "./assets/melon.jpg",
+    "productName": "Melon",
+    "price": "30.00",
+    "details": "Culpa proident nostrud ullamco nostrud do eu non ex dolore ut ex officia ea. Aliqua do minim cillum officia do eiusmod. Enim ex labore eiusmod occaecat. Sint cupidatat aliqua aliqua ea esse officia do sit ex enim sunt. Cillum amet officia labore mollit deserunt labore nulla id et do Lorem nisi pariatur nostrud.",
+    "tags": [
+      "deserunt",
+      "velit",
+      "ut"
+    ]
+  },
+  {
+    "id": "623e1545c551c4a616d7bdab",
+    "index": 2,
+    "img": "./assets/watermelon.jpg",
+    "productName": "Watermelon",
+    "price": "6.00",
+    "details": "Non cupidatat sit aliqua ea cillum proident duis proident. Ipsum aute magna quis labore nisi anim commodo est pariatur. Amet cupidatat sint exercitation tempor sit eu reprehenderit amet nostrud elit velit. Cupidatat ipsum do anim ullamco in duis anim culpa tempor. Ad eiusmod est consequat ex est veniam adipisicing. Minim ipsum cillum culpa mollit ipsum Lorem do nisi cupidatat irure ex ad est. Enim magna tempor anim adipisicing aliqua aute occaecat sint dolore nisi ipsum aliquip.",
+    "tags": [
+      "adipisicing",
+      "irure",
+      "esse"
+    ]
+  },
+  {
+    "id": "623e154544f42628671defe1",
+    "index": 3,
+    "img": "./assets/strawberry.jpg",
+    "productName": "Strawberry",
+    "price": "4.00",
+    "details": "Dolor sunt non culpa commodo dolor ad eiusmod elit magna labore. Reprehenderit pariatur dolor commodo consectetur eiusmod ea aute exercitation. Dolor in magna eiusmod culpa. Nostrud amet nostrud proident cillum enim veniam elit ut aliqua veniam voluptate cillum laboris elit. Nulla laboris fugiat pariatur officia consectetur cillum commodo anim mollit laborum. Do ea veniam qui non tempor deserunt magna. Anim nulla commodo aute nisi adipisicing.",
+    "tags": [
+      "fugiat",
+      "voluptate",
+      "irure"
+    ]
+  },
+  {
+    "id": "623e15455fe92249cbc99e3c",
+    "index": 4,
+    "img": "./assets/mango.jpg",
+    "productName": "Mango",
+    "price": "10.00",
+    "details": "Enim sint minim amet non minim. Minim duis proident irure adipisicing aliqua duis ad est proident mollit ipsum aliquip excepteur ut. Laboris elit aliquip sit occaecat sunt aliqua mollit. Sunt reprehenderit eu qui eu deserunt aliqua non sunt commodo quis irure. Do culpa incididunt do occaecat aliquip nisi est exercitation deserunt do fugiat est excepteur. Proident tempor Lorem nisi nulla anim. Eu cupidatat sunt esse deserunt minim commodo reprehenderit dolor id duis in nulla.",
+    "tags": [
+      "fugiat",
+      "minim",
+      "occaecat"
+    ]
+  },
+  {
+    "id": "623e1545e95049ff2ecfa761",
+    "index": 5,
+    "img": "./assets/blueberry.jpg",
+    "productName": "Blueberry",
+    "price": "5.00",
+    "details": "Dolor fugiat ullamco incididunt nisi mollit ullamco cillum ea. Labore excepteur commodo pariatur aliqua. Aliquip et proident amet magna dolore Lorem. Irure do sint ullamco ea id tempor duis ex eu.",
+    "tags": [
+      "minim",
+      "quis",
+      "qui"
+    ]
+  },
+  {
+    "id": "623e15456d2adb3334497f91",
+    "index": 6,
+    "img": "./assets/blackberry.jpg",
+    "productName": "Blackberry",
+    "price": "9.00",
+    "details": "Sunt eu consequat ipsum exercitation duis tempor consectetur voluptate cupidatat mollit tempor. Consequat qui nisi do consectetur velit eu nisi deserunt sit pariatur incididunt Lorem dolore. Eu nulla consectetur labore aliquip pariatur dolor proident dolore exercitation excepteur labore. Sit reprehenderit elit cupidatat elit esse anim consequat. Pariatur proident nulla fugiat culpa excepteur. Pariatur aute sit sit enim veniam aliqua proident sit.",
+    "tags": [
+      "aute",
+      "labore",
+      "velit"
+    ]
+  },
+  {
+    "id": "623e1545c8e1b805207a0031",
+    "index": 7,
+    "img": "./assets/apple.jpg",
+    "productName": "Apple",
+    "price": "10.00",
+    "details": "Ullamco duis amet sint adipisicing ipsum cillum adipisicing magna duis amet consequat. Ut magna culpa deserunt sit occaecat. Commodo deserunt cillum nostrud cillum consectetur Lorem dolore tempor commodo culpa labore irure nulla. Deserunt laborum non eu occaecat ut cillum tempor occaecat. Ipsum ipsum consequat dolore fugiat occaecat eu aliqua dolore.",
+    "tags": [
+      "aliquip",
+      "pariatur",
+      "reprehenderit"
+    ]
+  },
+  {
+    "id": "623e15458f5dfc614b831b88",
+    "index": 8,
+    "img": "./assets/guava.jpg",
+    "productName": "Guava",
+    "price": "50.00",
+    "details": "Et dolore laboris sint proident. Dolore eu et aliqua ad aliqua amet laboris non proident ut fugiat excepteur. Pariatur adipisicing mollit fugiat laboris Lorem quis. Pariatur culpa est nostrud amet minim velit dolor laboris adipisicing minim qui nostrud nisi magna. Esse dolore reprehenderit consectetur occaecat voluptate amet ullamco ad fugiat exercitation. Laborum occaecat ut reprehenderit cupidatat occaecat consectetur pariatur reprehenderit consequat ea. Dolore laboris Lorem deserunt nostrud dolor labore et ex nostrud occaecat id.",
+    "tags": [
+      "sunt",
+      "amet",
+      "excepteur"
+    ]
+  },
+  {
+    "id": "623e15458eceb18420c0cce7",
+    "index": 9,
+    "img": "./assets/pomo.jpg",
+    "productName": "Pomo",
+    "price": "60.00",
+    "details": "Ea aliqua duis irure ea velit nulla anim laborum. Pariatur nulla exercitation qui ut incididunt id anim. Est voluptate quis do amet Lorem ullamco excepteur magna ea adipisicing cillum commodo eu officia. Do dolore aliqua ut incididunt esse qui fugiat eu. Consectetur eiusmod nulla ea fugiat ea duis anim.",
+    "tags": [
+      "non",
+      "labore",
+      "excepteur"
+    ]
+  },
+  {
+    "id": "623e154563fa8794fcedcb01",
+    "index": 10,
+    "img": "./assets/pear.jpg",
+    "productName": "Pear",
+    "price": "80.00",
+    "details": "Consectetur ex consectetur dolor anim ut minim deserunt Lorem sit enim sunt nisi consectetur. Anim proident duis adipisicing eu magna. Et excepteur laboris ex est elit aliqua dolor incididunt consequat laboris do. Non deserunt non Lorem commodo mollit dolor ea elit ea adipisicing do culpa esse. Nostrud qui sint ipsum aliquip ea consectetur in deserunt anim mollit. Cupidatat commodo excepteur ipsum laboris exercitation ut tempor aliquip in aliqua commodo.",
+    "tags": [
+      "officia",
+      "pariatur",
+      "sunt"
+    ]
+  },
+  {
+    "id": "623e154527777e3b256895cd",
+    "index": 11,
+    "img": "./assets/lemon.jpg",
+    "productName": "Lemon",
+    "price": "30.00",
+    "details": "Veniam id tempor dolor elit. Do ipsum esse irure sint dolor cillum in aliqua ipsum. Ea laborum tempor amet sunt et ut duis reprehenderit consequat consectetur nisi. Dolore voluptate veniam duis Lorem magna. Ipsum dolor dolore qui laboris dolor voluptate exercitation. Excepteur incididunt pariatur ipsum minim amet fugiat dolore. Mollit dolor consequat aute ex non culpa ea incididunt minim occaecat sit duis et sunt.",
+    "tags": [
+      "ex",
+      "ad",
+      "anim"
+    ]
+  }
+]
